@@ -1,0 +1,24 @@
+.flex-container {
+    display: flex;
+}
+.flex-container .k-id {
+    flex: 0 0 20px;
+}
+.flex-container .k-user {
+    flex: 0 0 auto;
+    padding-right: 10px;
+}
+.flex-container .k-time {
+    flex: 1 1 auto;
+}
+.flex-container .k-menu {
+    flex: 0 0 auto;
+}
+.content-container {
+    padding: 5px;
+    border: solid 1px gray;
+    margin: 5px;
+}
+p {
+    margin-bottom: 0;
+}
